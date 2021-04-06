@@ -17,6 +17,11 @@ vue ui
 npm run serve
 ```
 
+## add bootstrap
+```powershell
+vue add bootstrap-vue
+```
+
 # plans
 1. Vue in typescript, Vuex, router, boostrap etc.
 2. spring boot jwt implementation
@@ -30,3 +35,5 @@ npm run serve
 # change log to
 ## 2021/4/6
 1. initialize Vue (router, Vuex, typescript)
+## 2021/4/7
+1. add bootstrap, refer to [bootstrap vue](https://www.bootstrap-vue.org)
