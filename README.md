@@ -37,3 +37,4 @@ vue add bootstrap-vue
 1. initialize Vue (router, Vuex, typescript)
 ## 2021/4/7
 1. add bootstrap, refer to [bootstrap vue](https://www.bootstrap-vue.org)
+2. re-create vue project in 2.x, so that bootstrap may install
