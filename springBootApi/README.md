@@ -1,4 +1,16 @@
-# Getting Started
+# spring boot api project for
+
+## plans
+1. two level api, level one is this project, level 2 
+   temporarily use json server
+2. need to list out db schema for Vue(x) client to use   
+
+## changelog
+### 2021/4/14
+* initial project
+- (also bullet)
+
+## (archived) Getting Started
 
 ### Reference Documentation
 
