@@ -23,7 +23,8 @@ vue add bootstrap-vue
 ```
 
 # plans
-1. Vue in typescript, Vuex, router, boostrap etc.
+1. Vue in typescript, Vuex, router
+   1. boostrap, may install with Vue 2.x only
 2. spring boot jwt implementation
 3. json server
 4. ckeditor and paste base64 image plugin
